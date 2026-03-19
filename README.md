@@ -4,21 +4,29 @@
 
 提示词模板仓库，按用途分类。
 
-[English](./README_en.md)
-
 ## 目录结构
 
-| 目录 | 说明 |
-|------|------|
-| `writing/` | 文案、文章、报告等写作相关 |
-| `programming/` | 代码开发、代码审查等技术 |
-| `translation/` | 多语言翻译、本地化 |
-| `analysis/` | 数据分析、商业分析 |
-| `teaching/` | 知识讲解、学习辅导 |
+```
+Prompt-Lib/
+├── zh/           # 中文
+│   ├── writing/
+│   ├── programming/
+│   ├── translation/
+│   ├── analysis/
+│   └── teaching/
+├── en/           # English
+│   ├── writing/
+│   ├── programming/
+│   ├── translation/
+│   ├── analysis/
+│   └── teaching/
+├── LICENSE
+└── README.md
+```
 
 ## 使用方式
 
-每个 `.md` 文件是一个提示词模板，直接复制使用即可。
+进入对应语言目录，每个 `.md` 文件是一个提示词模板，直接复制使用即可。
 
 ## 收录标准
 

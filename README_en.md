@@ -4,21 +4,29 @@
 
 A prompt template repository, categorized by use case.
 
-[中文](./README.md)
-
 ## Directory Structure
 
-| Directory | Description |
-|-----------|-------------|
-| `writing/` | Copywriting, articles, reports, etc. |
-| `programming/` | Code development, code review, etc. |
-| `translation/` | Multilingual translation, localization |
-| `analysis/` | Data analysis, business analysis |
-| `teaching/` | Knowledge explanation, tutoring |
+```
+Prompt-Lib/
+├── zh/           # 中文
+│   ├── writing/
+│   ├── programming/
+│   ├── translation/
+│   ├── analysis/
+│   └── teaching/
+├── en/           # English
+│   ├── writing/
+│   ├── programming/
+│   ├── translation/
+│   ├── analysis/
+│   └── teaching/
+├── LICENSE
+└── README.md
+```
 
 ## Usage
 
-Each `.md` file is a prompt template. Simply copy and use it.
+Navigate to the language folder, each `.md` file is a prompt template. Simply copy and use it.
 
 ## Contribution Criteria
 
