@@ -2,7 +2,7 @@
 
 > 整理、收集最被广泛使用、最好用的提示词模板
 
-提示词模板仓库，按用途分类。
+提示词模板仓库，按职业和用途分类。
 
 **[English](./en/)** | **[中文](./zh/)**
 
@@ -10,39 +10,48 @@
 
 ```
 Prompt-Lib/
-├── zh/           # 中文
-│   ├── writing/              # 写作辅助
-│   ├── article/             # 文章报告
-│   ├── programming/         # 编程开发
-│   ├── ai/                  # AI提示词
-│   ├── translation/         # 语言翻译
-│   ├── analysis/            # 数据分析
-│   ├── debugging/           # Bug排查
-│   ├── refactoring/         # 代码重构
-│   ├── documentation/       # 文档生成
-│   ├── interview/           # 面试学习
-│   ├── teaching/            # 教学辅导
-│   └── lifestyle/           # 生活百科
-├── en/           # English
-│   ├── writing/
-│   ├── article/
-│   ├── programming/
-│   ├── ai/
-│   ├── translation/
-│   ├── analysis/
-│   ├── debugging/
-│   ├── refactoring/
-│   ├── documentation/
-│   ├── interview/
-│   ├── teaching/
-│   └── lifestyle/
+├── zh/                    # 中文
+│   ├── 设计师/
+│   │   └── Midjourney/   # AI绘画
+│   ├── 程序员/
+│   │   ├── 编程开发/     # 代码生成、组件、工具函数
+│   │   ├── Bug排查/      # 报错、样式、性能问题
+│   │   ├── 代码重构/     # Vue2转Vue3、性能优化
+│   │   ├── 代码审查/     # 代码评审
+│   │   ├── 文档生成/     # 组件文档、接口文档
+│   │   └── 面试学习/    # 面试题、知识讲解
+│   ├── 运营/
+│   │   ├── 写作辅助/    # 语法润色、文案风格
+│   │   └── 文章报告/    # 页面生成、报告撰写
+│   ├── 产品经理/
+│   │   └── 数据分析/    # 数据分析
+│   ├── 教师/
+│   │   └── 教学辅导/    # 概念讲解
+│   ├── 学生/
+│   │   ├── 论文写作/    # 论文撰写
+│   │   └── 面试学习/    # 面试题
+│   ├── 翻译/
+│   │   └── 语言翻译/    # 中英翻译
+│   └── 通用/
+│       └── 生活百科/    # 生活类提示词
+│
+├── en/                    # English
+│   ├── Designer/
+│   ├── Programmer/
+│   ├── Operations/
+│   ├── ProductManager/
+│   ├── Teacher/
+│   ├── Student/
+│   ├── Translator/
+│   └── General/
+│
 ├── LICENSE
 └── README.md
 ```
 
 ## 使用方式
 
-进入对应语言目录，每个 `.md` 文件是一个提示词模板，直接复制使用即可。
+进入对应职业目录，每个 `.md` 文件是一个提示词模板，直接复制使用即可。
 
 ## 收录标准
 
