@@ -4,6 +4,8 @@
 
 A prompt template repository, categorized by use case.
 
+**[中文](./zh/)** | **[English](./en/)**
+
 ## Directory Structure
 
 ```
