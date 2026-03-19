@@ -4,6 +4,8 @@
 
 提示词模板仓库，按用途分类。
 
+[English](./README_en.md)
+
 ## 目录结构
 
 | 目录 | 说明 |
@@ -29,3 +31,7 @@
 ## 贡献
 
 欢迎提交 PR 添加新的提示词模板！
+
+## 许可证
+
+本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可证。
