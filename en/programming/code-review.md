@@ -1,25 +1,25 @@
-# 代码审查
+# Code Review
 
-请对以下代码进行审查：
+Please review the following code:
 
-## 代码
+## Code
 
 ```
-{{代码内容}}
+{{Code Content}}
 ```
 
-## 语言
+## Language
 
-{{语言，如 Python、JavaScript 等}}
+{{Language, e.g., Python, JavaScript, etc.}}
 
-## 审查要点
+## Review Points
 
-1. 代码规范遵守情况
-2. 潜在 bug 和风险
-3. 性能优化建议
-4. 安全性问题
-5. 可读性和可维护性
+1. Code style compliance
+2. Potential bugs and risks
+3. Performance optimization suggestions
+4. Security issues
+5. Readability and maintainability
 
-## 额外要求
+## Additional Requirements
 
-{{其他要求}}
+{{Other requirements}}

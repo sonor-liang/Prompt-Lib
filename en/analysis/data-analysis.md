@@ -1,22 +1,22 @@
-# 数据分析
+# Data Analysis
 
-请分析以下数据：
+Please analyze the following data:
 
-## 数据
+## Data
 
-{{数据内容或描述}}
+{{Data content or description}}
 
-## 分析目标
+## Analysis Goal
 
-{{你希望从数据中得到什么洞察}}
+{{What insights you want to get from the data}}
 
-## 要求
+## Requirements
 
-1. 描述数据的基本特征
-2. 发现数据中的规律和趋势
-3. 识别异常值
-4. 给出可行的建议
+1. Describe basic characteristics of the data
+2. Discover patterns and trends
+3. Identify outliers
+4. Provide actionable recommendations
 
-## 工具偏好
+## Tool Preference
 
-{{如 Excel、Python、R 等}}
+{{e.g., Excel, Python, R, etc.}}
