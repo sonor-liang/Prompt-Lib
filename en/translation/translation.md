@@ -1,17 +1,17 @@
-# 中英翻译
+# Translation (Chinese to English)
 
-请将以下内容翻译成英文：
+Please translate the following content into English:
 
-## 原文
+## Original Text
 
-{{原文内容}}
+{{Original Content}}
 
-## 要求
+## Requirements
 
-1. 保持原意准确
-2. 符合英语表达习惯
-3. 注意专业术语的准确性
+1. Maintain accurate meaning
+2. Follow English expression habits
+3. Ensure accuracy of technical terms
 
-## 背景（可选）
+## Background (Optional)
 
-{{补充背景信息，帮助更准确翻译}}
+{{Additional context for better translation}}
