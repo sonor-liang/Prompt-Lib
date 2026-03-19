@@ -1,22 +1,22 @@
-# Concept Explanation
+# 概念讲解
 
-Please explain the following concept:
+请讲解以下概念：
 
-## Concept
+## 概念
 
-{{Concept to explain}}
+{{要讲解的概念}}
 
-## Target Audience
+## 受众
 
-{{Who is the target reader, what background knowledge is needed}}
+{{目标读者是谁，需要什么基础}}
 
-## Requirements
+## 要求
 
-1. Explain in plain and understandable language
-2. Provide examples
-3. Use analogies from daily life
-4. Add related knowledge points appropriately
+1. 用通俗易懂的语言解释
+2. 可以举例说明
+3. 可以类比生活中的现象
+4. 适当补充相关知识点
 
-## Style
+## 风格
 
-{{e.g., lively and relaxed, rigorous and professional, etc.}}
+{{如轻松活泼、严谨专业等}}
