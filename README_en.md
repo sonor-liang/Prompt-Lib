@@ -11,17 +11,31 @@ A prompt template repository, categorized by use case.
 ```
 Prompt-Lib/
 ├── zh/           # 中文
-│   ├── writing/
-│   ├── programming/
-│   ├── translation/
-│   ├── analysis/
-│   └── teaching/
+│   ├── writing/              # 写作辅助
+│   ├── article/             # 文章报告
+│   ├── programming/         # 编程开发
+│   ├── ai/                  # AI提示词
+│   ├── translation/         # 语言翻译
+│   ├── analysis/            # 数据分析
+│   ├── debugging/           # Bug排查
+│   ├── refactoring/         # 代码重构
+│   ├── documentation/       # 文档生成
+│   ├── interview/           # 面试学习
+│   ├── teaching/            # 教学辅导
+│   └── lifestyle/           # 生活百科
 ├── en/           # English
 │   ├── writing/
+│   ├── article/
 │   ├── programming/
+│   ├── ai/
 │   ├── translation/
 │   ├── analysis/
-│   └── teaching/
+│   ├── debugging/
+│   ├── refactoring/
+│   ├── documentation/
+│   ├── interview/
+│   ├── teaching/
+│   └── lifestyle/
 ├── LICENSE
 └── README.md
 ```
