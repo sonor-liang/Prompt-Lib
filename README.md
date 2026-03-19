@@ -1,35 +1,31 @@
 # Prompt-Lib
 
-> Collect and organize the most widely used and effective prompt templates
+> 整理、收集最被广泛使用、最好用的提示词模板
 
-A prompt template repository, categorized by use case.
+提示词模板仓库，按用途分类。
 
-## Directory Structure
+## 目录结构
 
-| Directory | Description |
-|-----------|-------------|
-| `writing/` | Copywriting, articles, reports, etc. |
-| `programming/` | Code development, code review, etc. |
-| `translation/` | Multilingual translation, localization |
-| `analysis/` | Data analysis, business analysis |
-| `teaching/` | Knowledge explanation, tutoring |
+| 目录 | 说明 |
+|------|------|
+| `writing/` | 文案、文章、报告等写作相关 |
+| `programming/` | 代码开发、代码审查等技术 |
+| `translation/` | 多语言翻译、本地化 |
+| `analysis/` | 数据分析、商业分析 |
+| `teaching/` | 知识讲解、学习辅导 |
 
-## Usage
+## 使用方式
 
-Each `.md` file is a prompt template. Simply copy and use it.
+每个 `.md` 文件是一个提示词模板，直接复制使用即可。
 
-## Contribution Criteria
+## 收录标准
 
-High-quality prompt templates should:
-- ✅ Be validated in practice with good results
-- ✅ Have high reusability and broad applicability
-- ✅ Have clear structure, easy to understand and use
-- ✅ Be widely adopted by the community
+高质量的提示词模板应具备：
+- ✅ 经过实际验证，效果良好
+- ✅ 可复用性强，适用范围广
+- ✅ 结构清晰，易于理解和使用
+- ✅ 经过社区广泛采用
 
-## Contributing
+## 贡献
 
-Pull requests to add new prompt templates are welcome!
-
-## License
-
-This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+欢迎提交 PR 添加新的提示词模板！
