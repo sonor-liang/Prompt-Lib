@@ -1,21 +1,21 @@
-# Article Polishing
+# 文章润色
 
-Please help polish the following article to make it more fluent and professional:
+请帮我润色以下文章，使其更加流畅、专业：
 
-## Original Text
+## 原文
 
-{{Original Content}}
+{{原文内容}}
 
-## Requirements
+## 要求
 
-1. Keep the original meaning unchanged
-2. Optimize sentence structure
-3. Eliminate grammatical errors
-4. Improve readability
-5. Add transitional sentences if needed
+1. 保持原意不变
+2. 优化句式表达
+3. 消除语法错误
+4. 提升可读性
+5. 如有需要，可补充过渡句
 
-## Style
+## 风格
 
-- Target audience:
-- Tone:
-- Length:
+- 目标读者：
+- 语气：
+- 篇幅：
